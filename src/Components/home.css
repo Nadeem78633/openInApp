@@ -1,0 +1,17 @@
+.gradient-container {
+  position: relative;
+  width: 719.99px;
+  height: 1024px;
+  background: linear-gradient(180deg, #4285F4 0%, #286DE0 100%);
+}
+
+.white-triangle {
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 0;
+  height: 0;
+  border-left: 100px solid transparent;
+  border-bottom: 1024px solid  #F8FAFF;
+}
+
